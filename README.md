@@ -34,8 +34,8 @@ Cílem tohoto úkolu je hlavně vyzkoušet si základní práci s generátorem s
   - proveď commit a push řešení na GitHub
 - **Netlify**
   - pokud ještě nemáš, tak si vytvoř účet na [Netlify](https://netlify.com)
-  - založ si tam nový web podle instrukcí v lekci **Eleventy - Publikování na Netlify**
-  - jako zdroj pro vytvořený web nastav svůj GitHub repozitář
+  - na Netlify si založ nový web podle instrukcí v lekci **Eleventy - Publikování na Netlify**
+  - jako zdroj pro vytvořený web nastav svůj GitHub repozitář s tímto úkolem
   - pokud se na Netlify podaří web sestavit a publikovat, zkopíruj jeho adresu a vlož ji do popisu GitHub repozitáře, aby koučové mohli zkontrolovat, zda ti web na Netlify opravdu běží
 
 
